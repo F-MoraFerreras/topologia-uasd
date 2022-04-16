@@ -1,36 +1,19 @@
 ## Algunas notas y ejercicios resueltos
 
-You can use the [editor on GitHub](https://github.com/F-MoraFerreras/topologia-uasd/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+(https://github.com/F-MoraFerreras/topologia-uasd/edit/main/README.md) 
 
 
-<details>
-  <summary>Conjuntos y funciones</summary>
-  <h2>Conjuntos</h2>
-  dsjn kjfn jjkfdnjvk 
-</details>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contenido
 
-```markdown
-Syntax highlighted code block
+```<h3 contenteditable>Título del artículo</h3>
+<div contenteditable>
+  <p>Este es un párrafo de ejemplo del ejemplo en cuestión.</p>
+  <p>Con él se pretende mostrar el funcionamiento del atributo contentEditable.</p>
+</div>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
