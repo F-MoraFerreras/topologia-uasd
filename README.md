@@ -8,8 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 <details>
-  <summary>Más información</summary>
-  <h2>Nombre del sujeto</h2>
+  <summary>Conjuntos y funciones</summary>
+  <h2>Conjuntos</h2>
+  dsjn kjfn jjkfdnjvk 
 </details>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
