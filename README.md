@@ -4,7 +4,7 @@
 
 
 
-[html]<link id="template-file" href="Apunt Alge.html" rel="import" />[/html]
+[html]<link id="Apunt Alg-file" href="Apunt Alge.html" rel="import" />[/html]
 
 ## Contenido
 <details>
