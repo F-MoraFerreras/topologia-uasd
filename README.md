@@ -6,7 +6,7 @@
 
 ## Contenido
 <details>
-  <summary>Más información</summary>
+  <summary> <h2>Más información</h2> </summary>
   <h2>Conjuntos</h2>
    ijfdij n ijn nfvnklj jn nkj ln nk kn jn jn nj n ln.  
    <h2>Funciones</h2>
