@@ -5,8 +5,7 @@
 
 
 ## Contenido
-
-```<details>
+<details>
   <summary>Más información</summary>
   <h2>Conjuntos</h2>
    ijfdij n ijn nfvnklj jn nkj ln nk kn jn jn nj n ln.  
@@ -16,7 +15,6 @@
 
 
 
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
