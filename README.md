@@ -4,6 +4,7 @@
 
 
 
+[html] <link href="Apunt Alge.html" rel="import" />  [/html]
 ## Contenido
 <details>
   <summary> <h2>Más información</h2> </summary>
