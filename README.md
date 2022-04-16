@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Curso dictacto en el semestre 2022-1
 
 You can use the [editor on GitHub](https://github.com/F-MoraFerreras/topologia-uasd/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
