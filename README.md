@@ -6,11 +6,13 @@
 
 ## Contenido
 
-```<h3 contenteditable>Título del artículo</h3>
-<div contenteditable>
-  <p>Este es un párrafo de ejemplo del ejemplo en cuestión.</p>
-  <p>Con él se pretende mostrar el funcionamiento del atributo contentEditable.</p>
-</div>
+```<details>
+  <summary>Más información</summary>
+  <h2>Conjuntos</h2>
+   ijfdij n ijn nfvnklj jn nkj ln nk kn jn jn nj n ln.  
+   <h2>Funciones</h2>
+      ijfdij n ijn nfvnklj jn nkj ln nk kn jn jn nj n ln. 
+</details>
 
 
 
